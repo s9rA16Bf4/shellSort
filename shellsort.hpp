@@ -2,7 +2,6 @@
 #define SHELLSORT_HPP
 
 #include <vector>
-#include <iostream>
 
 template<typename T>
 class shellSort{
